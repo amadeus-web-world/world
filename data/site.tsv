@@ -1,13 +1,12 @@
 #key	value
-name	AmadeusWeb's Oases
+name	JoyfulEarth.org [DAWN]
 byline	Simplified Spiritual Tech.
-safeName	amadeuswebworld
-iconName	Oases by DAWN
+safeName	joyfulearth
+iconName	JE Home
 footer-message	Heralding a NEW DAWN&hellip;
-siteMenuName	World
+siteMenuName	JE Home
 mediakit	?content=DDCAAC&heading=D5F3FF
-sections	whois, missions
-local-url	http://localhost/oases/
-live-url	https://amadeusweb.world/oases/
-showIn	authors
-year	2025
+sections	introduction, audiences, opus, whois
+local-url	http://localhost/joyfulearth/
+live-url	https://joyfulearth.org/
+year	2013

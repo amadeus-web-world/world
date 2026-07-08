@@ -1,4 +1,4 @@
-<!--is-d-eck-->
+<!--is-deck-->
 
 Remember we are here to "grow together" and "collaborate" for the betterment of the human condition.
 

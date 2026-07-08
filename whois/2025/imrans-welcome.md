@@ -1,4 +1,4 @@
-<!--is-d-eck-->
+<!--is-deck-->
 
 We are, and should always think of ourselves as being at the cusp of a new dawn.
 
