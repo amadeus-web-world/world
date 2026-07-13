@@ -5,7 +5,9 @@ Kindly see why we deem ourselves
 and want only to
 [Ante Up](%urlOf-imran%2025-12/16-to-20/16--up-the-ante-and-have-more-peacemakers-on-earth/BTNINFO)<br /><br />
 
-**Ponder These, and Feel Free to Clarify**
+<!--start-engage-->
+
+## Ponder These, and Clarify
 
 1. How do you see the world?
 2. What would be your ideal relationship to it?

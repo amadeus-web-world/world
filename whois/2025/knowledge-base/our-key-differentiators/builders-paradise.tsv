@@ -1,0 +1,29 @@
+|not-yet-a-is-rich-page
+#title	content	content2	section	css	link	linkText	link2	link2Text
+Welcome to <span>Amadeus Web</span>	We craft websites with the utmost care and attention to elegance and simplicity using our unique platform.		hero		https://wa.me/+919841223313/	Call Us on Whatsapp	https://www.youtube.com/watch?v=xDrtQhSaU5k	Intro Video
+Why Choose Us	Amadeus is a breeze for content managed sites long term and is a simple and elegant way to build websites without databases. [More Reasons Why Us](%page-url%why-us/).		featured	bx bx-bulb	#			
+Content	With a clear separation with content, code and sheets, sites live in a organized folders. A lot of advanced content architecture in our more complex websites. Authoring is most often in markdown. [Content Architecture](%url%architecture/).		featured	bx bx-grid	#			
+Under the Hood	Powerful code snippets and built in functions get things done aesthetically. Built in php with a [flexible architecture](%page-url%architecture/under-the-hood/), and backed up to git/bitbucket, features like [Mozzaccart](%url%features/mozzacart/) tell of its power. [Get Started](%page-url%/how-to/setup-on-your-machine/) and [Make Websites](%url%how-to/make-a-new-website/).		featured	bx bx-shape-polygon	#			
+Rich Theme Support	Free/[premium](https://canvastemplate.com/demo-yoga.html) html themes can be easily converted into Amadeus Themes and even licensed wordpress themes with little extra effort. Clear separation of rich home page content and html can be done using [sheets and sections](%page-url%features/rich-home-pages/).		featured	bx bx-group	#			
+Find Out More About Us	We offer LONG TERM Website Building where layers of content are added every year.		about1		#			
+No Security or Publishing Hassles	The key advantage of Amadeus CMS is that copy, images, docs etc can be changed locally then uploaded with the click of a button		about2		#			
+Content Flexibility and Tracking	Content and Presentations can be organized to suit your taste and multiple file types added (mp3, pdf, html) to serve a single page. All is tracked using git at bitbucket.org.		abouts	bx bx-git-branch	#			
+All the Power of PHP	A Microframework in PHP, Amadeus has 10 core files and more modules on demand. The site can have loads of code written for its every whim and want. The framework supports html slideshows and markdown as well.		abouts	bx bx-code	#			
+[not used]	Amadeus is for Do-it-yourself enthusiasts, programmers and designers who dont mind looking under the hood.		about_bottom		#			
+Custom Content Architecture	85		skills		#			
+Integrates any HTML Theme	80		skills		#			
+Simple Powerful PHP Coding	90		skills		#			
+No Plugin or Security Nightmare	90		skills		#			
+No Database - Code and Content Backed up to GIT	90		skills		#			
+Theme Optimization and Compliance	80		skills		#			
+kB of Framework Code	60		counts	icofont-simple-smile	#			
+Practice Sites Built	35		counts	icofont-document-folder	#			
+Themes Ready	10		counts	icofont-users-alt-5	#			
+Framework Files	15		counts	icofont-live-support	#			
+What Makes us Unique	When working with us with our truly unique Amadeus Web Builder Platform, here are some of the advantages it brings.	The Amadeus Experience	services_top		#			
+TRACKABLE CONTENT	Our unique database-less paradigm shift platform means that your website, content, programming and graphics are all stored in neatly organized folders.		services	bx bx-file	#			
+ANYTHING IS POSSIBLE	Since we are built on top of modern web technologies like html5 and php, the sky truly is the limit on what's possible to extend in your website.		services	bx bxl-dribbble	#			
+GREAT THEMES	Themes take a couple of hours to convert and set up, and you can pay designers for great themes as is your wont.		services	bx bx-world	#			
+BLAZING FAST	We can optimize html themes based on lighthouse reports and our own framework is hardly 100Kb (yes kilo bytes) and loads the html pages in under one tenth of a second.		services	bx bx-tachometer	#			
+NO LOGIN MECHANISM	No login means your website is super secure and CANNOT be hacked, unless you give out the SFTP password.		services	bx bx-alarm-exclamation	#			
+DO IT YOURSELF FEEL	Built using a few small, yet powerful php scripts, no login also means no Visual Editors. Let us do the programming and loading of content for you if you do not want to peep under the hood.		services	bx bx-atom	#			

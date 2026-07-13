@@ -6,8 +6,7 @@ variables([
 ]);
 
 function site_before_render() {
-	if (sectionValue() && sectionValue() != nodeValue())
-		autosetPageMenu();
+	autosetPageMenu();
 }
 
 if (nodeIs(SITEHOME))

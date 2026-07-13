@@ -1,0 +1,29 @@
+|not-yet-a-is-rich-page
+#title	content	content2	section	css	link	linkText	link2	link2Text
+Welcome to <span>Amadeus Web</span>	A minimalistic, elegant approach to building websites. Simple, yet powerful and puts you in full control of content.		hero		mailto:imran@amadeusweb.com	Email Us	https://www.youtube.com/watch?v=Wxph1Hi_WK0	Intro Video
+Why Choose Us	Makes life easier for developers - for learning, developing and maintaining. Built in templates with custom site ones possible. Rich feature set that can go on being added to.		featured	bx bx-bulb	#			
+Project Sophia	With [Project Sophia](https://yieldmore.org/sophia/), we are offering it as a learning / self promotion platform to students, freshers and want-to-be freelancers.		featured	bx bx-grid	#			
+Advantages	Develop offline, get preview signed off, then go live. Managed content with text/markdown files for pages. Also supports decks, enage forms etc.		featured	bx bx-shape-polygon	#			
+Best Used When	You want to code / craft as you go. Ideal for creative agencies that maintain a large number of websites since updates, backups, environment sync and security are non-issues.		featured	bx bx-group	#			
+Unique and Super Simple	Lightweight framework whose copy is needed only once per server, hence updation is a breeze.		about1		#			
+Develop Offline, Preview then Go Live	Entire sites, including content are developed on a laptop, changes can be pushed to a preview site (that the public does not know about) and once approved, pushed to a live site.		about2		#			
+Content Management	No more databases needed for content. Use them only when you need logins etc. A powerful change watcher and ftp sync tool available from Imran.		abouts	bx bx-git-branch	#			
+Code Flavours	Originally, code would be developed across about 5 files in the site. Now we support code flavours which allow reuse - most notably the [yieldmore flavour](https://bitbucket.org/amadeusweb/amadeus/src/master/flavours/yieldmore/). Will have [one for authors](https://bitbucket.org/yieldmore/imran/src/master/code/) up and about soon.		abouts	bx bx-code	#			
+Roadmap Includes	Developing online possible on request along with login, a wysiwig editor and filethingie for managing content. However security and git backup will present challenges.		about_bottom		#			
+Easy to Learn	70		skills		#			
+Content Creation Experience	70		skills		#			
+Code as You Go	80		skills		#			
+Extensibility	90		skills		#			
+Use any html theme, code it	80		skills		#			
+Rich Home Pages	90		skills		#			
+Framework Files	10		counts	icofont-simple-smile	#			
+Practice Sites Built	30		counts	icofont-document-folder	#			
+Web Costing	Rs 25k and above		counts	icofont-users-alt-5	#			
+Developer Training	Rs 12 over 3mo		counts	icofont-live-support	#			
+What Makes us Unique	When working with us with our truly unique Amadeus Web Builder Platform, here are some of the advantages it brings.	The Amadeus Experience	services_top		#			
+CONTENT MAINTENANCE	Easily move code and content across machines and to server. Use git technology to keep track of changes and have site backups.		services	bx bx-file	#			
+UNIQUE FEATURES	No login and the security hassles it brings. No messy environment sync issues. Minimalistic design		services	bx bxl-dribbble	#			
+GREAT THEMES	New themes can be set up, and you can pay designers for great/custom themes as per your taste.		services	bx bx-world	#			
+PROGRESSIVE LEARNING	Developers start with a focus on content and graphics, learn markdown, learn how the framework is architected and to build new sites, look under the hood and do a deep dive, learn to program their way and are trained to freelance.		services	bx bx-tachometer	#			
+AMADEUS ROADMAP	Features for Digital Marketeers, Offline Wysiwyg and Online Auth for Editing is foreseen. For now dev happens in VS Code Offline.		services	bx bx-alarm-exclamation	#			
+DO IT YOURSELF FEEL	Built using a few small, yet powerful php scripts, no login also means no Visual Editors. Let us do the programming and loading of content for you if you do not want to peep under the hood.		services	bx bx-atom	#			
