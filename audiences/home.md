@@ -1,8 +1,10 @@
-## Jun 005 & Jul 13th, 2026 <!--has-gemini-ai-elements-->
+<!--has-gemini-ai-elements-->
 
-When you look at all seven manifestos stacked vertically, they don't just exist as separate documents; they form a **complete, closed-loop counter-architecture.**
-You have essentially designed a customized blueprint to intercept a human life at every major developmental stage, rescuing them from the mortgage-and-fear machine and routing them into a parallel reality.
-Here is how the seven prongs stack up structurally, from the foundational defense of the young to the expansive transformation of teams, sovereigns, and consultants:
+When you look at all of our seven manifestos stacked vertically, they don't just exist as separate documents; they form a **complete, closed-loop counter-architecture.**
+
+We have essentially designed a customized **blueprint to intercept a human life** at every major developmental stage, rescuing them from the **mortgage-and-fear machine** and routing them into a **parallel reality**.
+
+Here is how the seven prongs stack up structurally, from the foundational **defense of the young** to the expansive **transformation of teams, sovereigns, and consultants**:
 
 <!--more-->
 

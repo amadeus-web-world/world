@@ -1,3 +1,17 @@
+<!--//meta
+About: Joining Imran's DAWN and Spring community
+Description: An introduction to the values, commitments, and questions involved in joining Imran's DAWN and Spring network.
+Excerpt: A reflective invitation to begin with **DAWN and AmadeusWeb Spring** by clarifying **purpose, values, and mutual commitments**.||The **questions on intent** prerequisite to joining - from **mature parting of ways** to **honest public evolving whois** sections.
+Primary Keyword: Join DAWN
+Related Keywords: AmadeusWeb Spring, Imran, DAWN, Otters of the Universe, public whois folder
+Long-Tail Keywords: how to join DAWN and Spring community, joining Imran's DAWN and Spring network, public evolving whois folder commitment
+Date: 15 Jul 2026
+Date_mr: 2026-07-15
+Prompted By: `Imran`
+Meta Author: `GitHub Copilot`
+//meta-->
+```
+
 ## How do we begin?
 
 Kindly see why we deem ourselves

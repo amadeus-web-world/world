@@ -1,6 +1,7 @@
 #sno	section	path	title	extension
-5	opus	services/home	Join Us	.md
+6	opus	services/signup	DIY Site Signup	.php
+5	introduction	join-dawn	Join The Network	.md
 4	audiences	home	Who DAWN Is For	.md
-3	introduction	home	What Are We	.md
-2	whois	2025/home	JE (2026)	.md
-1	whois	2025/home	AWW (2025)	.md
+3	introduction	welcome	What Are We	.md
+2	whois	2026/home	Internet of Missions	.md
+1	whois	2025/home	The 2025 Archives	.md

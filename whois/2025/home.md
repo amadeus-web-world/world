@@ -1,8 +1,18 @@
-# WHOIS 2025 Overview
+<!--//meta
+About: 2025 WHOIS archive overview and navigation guide
+Description: A structured guide to the 2025 WHOIS archive, explaining the purpose of each entry, how the material is organized, and where to begin exploring the broader network.
+Excerpt: This page is meant to help visitors understand the purpose of each file in our 2015 archives, how the material is organized, and **where to begin when exploring the broader network**.||The archive is arranged as a **navigable index of documents**, sections, and reference files covering **courtesies, introductions, knowledge base materials, and terms**. Each entry explains what the page or file is for and what readers can take from it.||The page also invites **reflection through a set of clarifying questions**, helping visitors identify their reasons for exploring, the **kind of collaboration** they seek, and what kind of **support or relationship may be appropriate**.
+Primary Keyword: WHOIS
+Related Keywords: WHOIS archive, archive map, network navigation, Imran, knowledge base
+Long-Tail Keywords: 2025 WHOIS archive navigation guide, how to explore the 2025 WHOIS archive, structured map of the WHOIS network
+Date: 15 Jul 2026
+Date_mr: 2026-07-15
+Prompted By: `Imran`
+Meta Author: `GitHub Copilot`
+//meta-->
+
 
 This page is a structured map of the 2025 WHOIS archive. It is meant to help visitors understand the purpose of each file, how the material is organized, and where to begin when exploring the broader network.
-
-## File Map
 
 1. [home.md](%url%2025/)
 
