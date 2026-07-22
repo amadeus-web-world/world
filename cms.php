@@ -10,4 +10,9 @@ function site_before_render() {
 }
 
 if (nodeIs(SITEHOME))
-	variable(VARWelcomeMessage, getCodeSnippet('welcome'));
+	setHtmlVariable(VARWelcomeMessage, getSnippet('welcome'));
+
+function after_file() {
+	if (nodeIs(SITEHOME))
+		echo getCodeSnippet('welcome');
+}
