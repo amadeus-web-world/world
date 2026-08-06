@@ -10,16 +10,15 @@ Date_mr: 2026-07-15
 Prompted By: `Imran`
 Meta Author: `GitHub Copilot`
 //meta-->
-```
 
-## How do we begin?
+## What is DAWN?
 
-Kindly see why we deem ourselves
-[Otters of the Universe](%urlOf-imran%2025-12/16-to-20/17--we-are-the-otters-of-the-universe/BTNPRIMARY)
-and want only to
-[Ante Up](%urlOf-imran%2025-12/16-to-20/16--up-the-ante-and-have-more-peacemakers-on-earth/BTNINFO)<br /><br />
+DAWN is a social experiment that requires involvement in the process. Filling out this form below is a precursor to taking a service from one of us - [like Imran](%url%services/signup/). We want word to spread slowly through people connected to the mission who have learnt the nuances of the platform and who have a home here built by their own hands.
+
 
 <!--start-engage-->
+
+%engage-note-above%
 
 ## Ponder These, and Clarify
 
@@ -33,3 +32,5 @@ and want only to
 8. Are you OK to openly supporting the network. While you may publicly denounce anyone, know Imran to be a rudist who's so tired of divisiveness, he likes to challenge people.
 9. Recognize that uniquely, with AW Spring, you own your content from day 1. However in case we drift apart or for some unfathomable reason, Imran decides to pull the plug, you will abide by your already written exit code of conduct.
 10. We both agree to be transparent, conscious parties with only the best intentions for this planet.
+
+%engage-note%
