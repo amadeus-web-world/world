@@ -1,0 +1,9 @@
+|is-table
+||cloneAt: joyfulearth/sunlight/
+||renderWith: repos.php
+||Description: Sunlight / Work
+||Primary Keyword: Sunlight
+||Keywords: Work, Training
+#at	from
+work	https://github.com/joyfulearth/work.git
+work/samples/ignite	https://github.com/joyfulearth/ignite.git

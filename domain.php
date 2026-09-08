@@ -1,7 +1,7 @@
 <?php
 domain::add('joyfulearth', __DIR__, false, new domain([
 		'folder' => 'joyfulearth/',
-		'heading' => 'JE',
+		'heading' => 'JoyfulEarth.org',
 		'local' => 'http://localhost/joyfulearth/%subfol%/%site%/',
 		'live' => 'https://%site%.joyfulearth.org/',
 		'local-base' => 'http://localhost/joyfulearth/%subfol%/',
@@ -10,15 +10,14 @@ domain::add('joyfulearth', __DIR__, false, new domain([
 	['%folder%www', 'spring', '%folder%ours/imran'],
 	[
 		'ours',
-		'people',
-		'businesses',
-		'centers',
-		'channels',
-		'culture',
-		'families',
 		'serenity',
 		'sunlight',
 		'symphony',
 		'ventures',
+		'people',
+		'businesses',
+		'centers',
+		'culture',
+		'families',
 	],
 ));

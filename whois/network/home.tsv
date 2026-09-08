@@ -1,0 +1,9 @@
+|is-table
+||cloneAt: joyfulearth/
+||renderWith: repos.php
+||Description: Seeding an Internet of Missions
+||Primary Keyword: DAWN
+||Keywords: Internet of Missions, Dynamic AmadeusWeb Network
+#at	from
+www	https://github.com/joyfulearth/www.git
+www/opus	https://github.com/joyfulearth/opus.git

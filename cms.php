@@ -4,6 +4,7 @@ variables([
 	VARSectionsHaveFiles => BOOLYes,
 	VARLinkToSectionHome => BOOLYes,
 ]);
+setup_cdn();
 
 function site_before_render() {
 	autosetPageMenu([VARDontOverwriteLogo => true]);

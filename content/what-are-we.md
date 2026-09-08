@@ -1,12 +1,12 @@
 <!--is-deck-->
 
-<img class="img-fluid img-max-400 mt-3 m-auto d-block" src="%site-assets%%safeName%-mood.png" /> JUSTBR JUSTBR
+<img class="img-fluid img-max-400 mt-3 m-auto d-block" src="%cdn%%safeName%-mood.png" /> JUSTBR JUSTBR
 
 We are building an **offline first**, **INTENT Driven**,  **Internet of Missions**
 
 ---
 
-<img class="img-fluid img-max-400 mt-3 m-auto d-block" src="%site-assets%%safeName%-expertise.png" /> JUSTBR JUSTBR
+<img class="img-fluid img-max-400 mt-3 m-auto d-block" src="%cdn%%safeName%-expertise.png" /> JUSTBR JUSTBR
 
 Outlined first using Gemini in 2025, see these JUSTBR JUSTBR
 
